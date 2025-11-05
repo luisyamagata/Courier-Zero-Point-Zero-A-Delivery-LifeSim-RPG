@@ -24,42 +24,24 @@ There will be mini side-quests to keep things interesting and give the game a se
 
 # lore
 
-~~It's a prequel fan-game for Fallout: New Vegas. You play as the Player Character from Fallout: New Vegas doing deliveries. You get a bike somehow, maybe in an abandoned factory, or some genius re-invents it. After the events of my game the bike will be lost forever an no-one will ever talk about it afterwards. That way it'll be lore friendly.
+~~It's a prequel fan-game for Fallout: New Vegas. You play as the Player Character from Fallout: New Vegas doing deliveries. You get a bike somehow, maybe in an abandoned factory, or some genius re-invents it. After the events of my game the bike will be lost forever an no-one will ever talk about it afterwards. That way it'll be lore friendly.~~
 
-I think that it could be in-city deliveries. Maybe 3 or 4 major cities/settlements. From different factions. Our Courier has no allegiance. Something for local businesses or for people that want to buy from caravans and aren't able to leave their homes.
+~~I think that it could be in-city deliveries. Maybe 3 or 4 major cities/settlements. From different factions. Our Courier has no allegiance. Something for local businesses or for people that want to buy from caravans and aren't able to leave their homes.~~
 
-My game will literally end where Fallout: New Vegas begins. I have to decide what perspective it's gonna be made in (2D/3D/Isometric). And learn how to make the art for the assets. I'm not much of a designer.
+~~My game will literally end where Fallout: New Vegas begins. I have to decide what perspective it's gonna be made in (2D/3D/Isometric). And learn how to make the art for the assets. I'm not much of a designer.~~
 
-(cancel that) The main character lives in a cyberpunk Rio de Janeiro, on 2125. They need to make some money in a short amount of time. They decide to make deliveries using a bike. The tech is fallout-ish~~
+(MAYBE) The main character lives in a cyberpunk Rio de Janeiro, on 2125. They need to make some money in a short amount of time. They decide to make deliveries using a bike. The tech is fallout-ish
 
 # Additional Info about the main character. (source: [fallout.wiki](https://fallout.wiki/wiki/Courier)):
 
+~~Before taking contract to deliver the Platinum Chip, the Courier had traveled across the former American Southwest, on the Long 15 to Primm, to Circle Junction, New Reno, Vault City, Fort Abandon and on Brahmin drives at the Big Circle.[1][2] They were also hired to deliver a package to a community near Death Valley, the technology contained within the package resulting in underground nuclear detonations after their departure, creating a hostile area known as the Divide.[3][4]~~
 
+~~The Courier was one of six messengers hired by the Mojave Express at Mr. House's behest to deliver packages to the New Vegas Strip.[5][6] The Courier was carrying the only item of worth, House's Platinum Chip.[7] In order to steal the chip, Mr. House's protégé Benny intercepted the Courier, shot them in the head twice, and buried them in the Goodsprings Cemetery.[8][9][10][11] The Courier was dug out of their grave by Victor, a Securitron under Mr. House's control.[12] They were operated on by Doc Mitchell, the resident doctor of Goodsprings, who then monitored the Courier's recovery over the following days.[13][14]~~
 
-Nickname: Courier Six
+~~Dialogue~~
 
-Occupation: Mojave Express
-
-Role:     Player character
-          Package courier
-
-Gender: Player's choice
-
-Played By: Laura Bailey (female)
-           Yuri Lowenthal (male)
-
-Appears: Fallout: New Vegas
-
-
-Background
-
-Before taking contract to deliver the Platinum Chip, the Courier had traveled across the former American Southwest, on the Long 15 to Primm, to Circle Junction, New Reno, Vault City, Fort Abandon and on Brahmin drives at the Big Circle.[1][2] They were also hired to deliver a package to a community near Death Valley, the technology contained within the package resulting in underground nuclear detonations after their departure, creating a hostile area known as the Divide.[3][4]
-
-The Courier was one of six messengers hired by the Mojave Express at Mr. House's behest to deliver packages to the New Vegas Strip.[5][6] The Courier was carrying the only item of worth, House's Platinum Chip.[7] In order to steal the chip, Mr. House's protégé Benny intercepted the Courier, shot them in the head twice, and buried them in the Goodsprings Cemetery.[8][9][10][11] The Courier was dug out of their grave by Victor, a Securitron under Mr. House's control.[12] They were operated on by Doc Mitchell, the resident doctor of Goodsprings, who then monitored the Courier's recovery over the following days.[13][14]
-Dialogue
-
-The player character can make several statements about their past through in-game dialogue options. They do not form part of their background until they have been selected. Below is a list of elements of the character's past which can be learned through gameplay.
-Information
+~~The player character can make several statements about their past through in-game dialogue options. They do not form part of their background until they have been selected. Below is a list of elements of the character's past which can be learned through gameplay.~~
+~~Information~~
 
     During a conversation with Bruce Isaac in Novac, the Courier can state that they have been to New Reno and attended one of his shows at the Shark Club.[15]
     When talking with Little Buster, the Courier states they worked as a bounty hunter.[16]
@@ -81,11 +63,6 @@ Information
     The Courier is one of two protagonists throughout the main Fallout series to not begin their adventure by leaving a Vault. The other protagonist is the Chosen One from Fallout 2.
     As mentioned by Father Elijah on his radio frequency in Dead Money, the Courier carries Collar 21, assuming the Courier had stolen a Pip-Boy from a Vault 21 dweller.[28][29]
 
-Appearances
-
-The Courier is the player character of Fallout: New Vegas. They are also mentioned in the graphic novel, All Roads.
-Behind the Scenes
-
     Originally, players would have been able to select from three different playable races for the Courier during Character Creation. Obsidian had planned to include both ghouls and super mutants, however, Bethesda strongly advised against doing so on the basis that armor and weapons would need to be reworked for each race. Obsidian followed Bethesda's advice and left the Courier human.[Pub 1]
     The Courier is the Joker in the deck of Vault Playing Cards included with the Collector's Edition of Fallout: New Vegas.
     Josh Sawyer stated that the developers had "intentionally left the Courier's origins and the exact nature of the initial transaction vague" except that they had carried their "delivery from southern NCR, toward the Hub."[Dev 1]
@@ -100,41 +77,41 @@ Gallery
 
  Fallout New Vegas-
 
-Base game, Raul Tejada/Paladin Sato/Major Knight with 100 repair.
+~~Base game, Raul Tejada/Paladin Sato/Major Knight with 100 repair.~~
 
-DLC, Joshua Graham/Commissary terminal/Sink Central Intelligence Unit with 100 repair. 
+~~DLC, Joshua Graham/Commissary terminal/Sink Central Intelligence Unit with 100 repair.~~
 
-Opções:
+~~Opções:~~
 
-O/A courier encontra uma bicicleta nova em folha, mas a única. portanto não é possível consertá-la, ela eventualmente quebra. Ou alguém com REPAIR 100 conserta uma bicicleta deteriorada por uma pequena fortuna/ em troca de um favor. Talvez uma promocional de alguma empresa pré guerra que ficou armazenada seguramente por algum motivo X.
+~~O/A courier encontra uma bicicleta nova em folha, mas a única. portanto não é possível consertá-la, ela eventualmente quebra. Ou alguém com REPAIR 100 conserta uma bicicleta deteriorada por uma pequena fortuna/ em troca de um favor. Talvez uma promocional de alguma empresa pré guerra que ficou armazenada seguramente por algum motivo X.~~
 
-O/A courier encontra um gênio (canônico ou não) com pelo menos 8 de INT que reinventa a bicicleta.
+~~O/A courier encontra um gênio (canônico ou não) com pelo menos 8 de INT que reinventa a bicicleta.~~
 
-Encontrada em uma vault temática de ciclistas. Todos morreram. Sobrou 2 apenas. Ele conserta elas uma vez e depois fica sem.
-
-
-links wiki candidatos (humanoides)
-
-https://fallout.fandom.com/wiki/Joshua_Graham (supondo que ele não tivesse mais na Legião, ou talvez ele consertou/intentou e o courier rouba a bike)
-
-mais realista:
-
-https://fallout.fandom.com/wiki/Old_Lady_Gibson
+~~Encontrada em uma vault temática de ciclistas. Todos morreram. Sobrou 2 apenas. Ele conserta elas uma vez e depois fica sem.~~
 
 
-(paladin Sato - problema, eu não quero que o Courier esteja próximo de nenhuma facção, ele é da BoS
+~~links wiki candidatos (humanoides)~~
 
-https://fallout.fandom.com/wiki/Sato_(Fallout:_New_Vegas)
+~~https://fallout.fandom.com/wiki/Joshua_Graham (supondo que ele não tivesse mais na Legião, ou talvez ele consertou/intentou e o courier rouba a bike)~~
 
-Raul Tejada - faria senrtido. ele conserta coisas.
+~~mais realista:~~
 
-https://fallout.fandom.com/wiki/Raul_Tejada#Background
-
-
-https://fallout.fandom.com/wiki/Knight_(Mojave_Outpost)
+~~https://fallout.fandom.com/wiki/Old_Lady_Gibson~~
 
 
-Fallout new vegas starts on 2281
+~~(paladin Sato - problema, eu não quero que o Courier esteja próximo de nenhuma facção, ele é da BoS~~
+
+~~https://fallout.fandom.com/wiki/Sato_(Fallout:_New_Vegas)~~
+
+~~Raul Tejada - faria senrtido. ele conserta coisas.~~
+
+~~https://fallout.fandom.com/wiki/Raul_Tejada#Background~~
+
+
+~~https://fallout.fandom.com/wiki/Knight_(Mojave_Outpost)~~
+
+
+~~Fallout new vegas starts on 2281~~
 
 
 Concept Art:
