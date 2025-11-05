@@ -1,5 +1,5 @@
-# Courier Zero - a Fallout: New Vegas Fangame
-A repostiory for a game for the itch.io - Accountability Jam: October 2025
+# Courier Zero point Zero - a Delivery-LifeSim RPG game
+A repostiory for a game for the itch.io - Accountability Jam: November 2025
 
 # game concept
 You need to make some money fast. You have a Bicycle. There is a courier/delivery service on your city that takes almost anyone. You do deliveries and get involved in a conspiracy/corruption plot in your city.
