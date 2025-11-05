@@ -22,7 +22,7 @@ There will be mini side-quests to keep things interesting and give the game a se
 
 # non-functional requisites
 
-# lore
+~~ # lore
 
 It's a prequel fan-game for Fallout: New Vegas. You play as the Player Character from Fallout: New Vegas doing deliveries. You get a bike somehow, maybe in an abandoned factory, or some genius re-invents it. After the events of my game the bike will be lost forever an no-one will ever talk about it afterwards. That way it'll be lore friendly.
 
@@ -139,4 +139,5 @@ Fallout new vegas starts on 2281
 
 Concept Art:
 
+~~
 
