@@ -32,8 +32,6 @@ There will be mini side-quests to keep things interesting and give the game a se
 
 # Additional Info about the main character. (source: [fallout.wiki](https://fallout.wiki/wiki/Courier)):
 
-~~Before taking contract to deliver the Platinum Chip, the Courier had traveled across the former American Southwest, on the Long 15 to Primm, to Circle Junction, New Reno, Vault City, Fort Abandon and on Brahmin drives at the Big Circle.[1][2] They were also hired to deliver a package to a community near Death Valley, the technology contained within the package resulting in underground nuclear detonations after their departure, creating a hostile area known as the Divide.[3][4]~~
-
 ~~The Courier was one of six messengers hired by the Mojave Express at Mr. House's behest to deliver packages to the New Vegas Strip.[5][6] The Courier was carrying the only item of worth, House's Platinum Chip.[7] In order to steal the chip, Mr. House's protégé Benny intercepted the Courier, shot them in the head twice, and buried them in the Goodsprings Cemetery.[8][9][10][11] The Courier was dug out of their grave by Victor, a Securitron under Mr. House's control.[12] They were operated on by Doc Mitchell, the resident doctor of Goodsprings, who then monitored the Courier's recovery over the following days.[13][14]~~
 
 ~~Dialogue~~
