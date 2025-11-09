@@ -7,7 +7,7 @@ Obs: This repository, was created in october for the October 2025 Accountability
 You need to make some money fast. You have a Bicycle. There is a courier/delivery service on your city that takes almost anyone. You do deliveries and get involved in a conspiracy/corruption plot in your city.
 
 # game genre
-Action/Adventure/Life Sim
+Action/Adventure/Life Sim/RPG
 
 # language / engine to be used
 Godot or Python
